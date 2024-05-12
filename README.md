@@ -1,2 +1,2 @@
-# elitaland
+# ElitaLand Wiki
 elitaland
